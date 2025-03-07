@@ -1,0 +1,16 @@
+##AI-driven stock analysis system leveraging powerful open-source tools like LangGraph, DeepSeek R1–7B, and Ollama
+
+1. **Technical Analysis**: Evaluates stock price patterns and market indicators.
+2. **Market Analysis**: Reviews sector performance and comparative metrics.
+3. **News Analysis**: Processes sentiment and breaking news events.
+4. **Recommendation**: Synthesizes insights into actionable advice.
+
+
+Tools 
+
+- **LangChain**: Framework for chaining AI prompts and agents.
+- **LangGraph**: For orchestrating workflows with state-sharing across agents.
+- **DeepSeek R1–7B**: Open-source LLM for analytical reasoning.
+- **Ollama**: Local LLM hosting for cost savings and data privacy.
+- **Google Colab**: Free, flexible compute environment.
+
